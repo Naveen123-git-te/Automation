@@ -1,0 +1,109 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="6" passed="6" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2025-09-16T09:29:38 IST" name="Default suite" finished-at="2025-09-16T09:30:01 IST" duration-ms="22620">
+    <groups>
+    </groups>
+    <test started-at="2025-09-16T09:29:38 IST" name="Default test" finished-at="2025-09-16T09:30:01 IST" duration-ms="22620">
+      <class name="data_driven_testing.LearnParameters">
+        <test-method signature="login(java.lang.String,java.lang.String)[pri:0, instance:data_driven_testing.LearnParameters@35841320]" started-at="2025-09-16T09:29:38 IST" name="login" data-provider="getData" finished-at="2025-09-16T09:29:43 IST" duration-ms="4441" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[admin]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[manager]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- login -->
+        <test-method signature="login(java.lang.String,java.lang.String)[pri:0, instance:data_driven_testing.LearnParameters@35841320]" started-at="2025-09-16T09:29:43 IST" name="login" data-provider="getData" finished-at="2025-09-16T09:29:47 IST" duration-ms="3619" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[admin123]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[manager123]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- login -->
+        <test-method signature="login(java.lang.String,java.lang.String)[pri:0, instance:data_driven_testing.LearnParameters@35841320]" started-at="2025-09-16T09:29:47 IST" name="login" data-provider="getData" finished-at="2025-09-16T09:29:50 IST" duration-ms="3717" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[admin]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[manager]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- login -->
+        <test-method signature="login(java.lang.String,java.lang.String)[pri:0, instance:data_driven_testing.LearnParameters@35841320]" started-at="2025-09-16T09:29:50 IST" name="login" data-provider="getData" finished-at="2025-09-16T09:29:54 IST" duration-ms="3609" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[admin321]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[manager321]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- login -->
+        <test-method signature="login(java.lang.String,java.lang.String)[pri:0, instance:data_driven_testing.LearnParameters@35841320]" started-at="2025-09-16T09:29:54 IST" name="login" data-provider="getData" finished-at="2025-09-16T09:29:57 IST" duration-ms="3606" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[admin456]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[manager456]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- login -->
+        <test-method signature="login(java.lang.String,java.lang.String)[pri:0, instance:data_driven_testing.LearnParameters@35841320]" started-at="2025-09-16T09:29:57 IST" name="login" data-provider="getData" finished-at="2025-09-16T09:30:01 IST" duration-ms="3569" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[admin]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[manager]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- login -->
+      </class> <!-- data_driven_testing.LearnParameters -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
